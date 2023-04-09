@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# the contents of out, but not the folder itself
+out/*
+
 # C extensions
 *.so
 
