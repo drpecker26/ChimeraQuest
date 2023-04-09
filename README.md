@@ -2,6 +2,8 @@
 A demo of a game incorporating generative AI within gameplay. 
 (this is my first open source repo; apologies for not making it super easy to emulate). 
 
+I discuss this game here: https://medium.com/@sampeck/taming-gpt-two-projects-demonstrating-the-potential-of-generative-ai-within-games-16e3afa3ffa0
+
 # Getting Started
 To play quickly, ask Sam (https://www.linkedin.com/in/samuel-peck-4078b415/) to invite you to the Discord Server where this is running. 
 To get this up and running for yourself, continue reading.
